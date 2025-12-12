@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Yu 👋
 
-<!--
-**lyyimissu-dot/lyyimissu-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechanical Engineer with 5+ years of experience in automated material-handling equipment (stacker cranes, lifting platforms, welded structures).  
+Currently I'm completing my MEng in Mechanical Engineering in Canada
 
-Here are some ideas to get you started:
+## 🔧 Technical Focus
+- Mechanical design: lifting equipment, welded frames, machined parts
+- CAD: SolidEdge (advanced), SolidWorks, AutoCAD
+- Analysis: basic FEA concepts, risk assessment (qualitative & quantitative)
+- Coding (learning): Python for data analysis, simple automation scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- **Automated Stacker Crane Platform Design** – structural design, fabrication drawings, and BOMs  
+- **Risk Assessment of Automated Logistics Equipment** – FMEA and quantitative risk evaluation  
+- **(Coming soon)** 3D printing + machine learning project
+
+## 🌱 Currently Learning
+- North American drawing standards (GD&T, ASME Y14.5)
+- Welding symbols (AWS / CSA)
+- Python for engineering calculations
+
+## 📫 Contact
+- Email: ygan02@uoguelph.ca
+- Location: Guelph, ON, Canada
