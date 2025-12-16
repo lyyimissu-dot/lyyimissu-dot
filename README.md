@@ -1,24 +1,95 @@
-# Hi, I'm Yu 👋
+# Hi, I'm Yu Gan 👋  
+**Mechanical Engineer | Automation & Machine Design | CAD & Simulation | Risk & Reliability**
 
-I'm a Mechanical Engineer with 5+ years of experience in automated material-handling equipment (stacker cranes, lifting platforms, welded structures).  
-Currently I'm completing my MEng in Mechanical Engineering in Canada
+I’m a Mechanical Engineer with 5+ years of experience designing **automated material-handling machinery**, including stacker cranes, lifting systems, and industrial equipment.  
+Currently completing my **MEng in Mechanical Engineering at the University of Guelph (Canada)**, focusing on:
 
-## 🔧 Technical Focus
-- Mechanical design: lifting equipment, welded frames, machined parts
-- CAD: SolidEdge (advanced), SolidWorks, AutoCAD
-- Analysis: basic FEA concepts, risk assessment (qualitative & quantitative)
-- Coding (learning): Python for data analysis, simple automation scripts
+- Digital manufacturing & automation  
+- Mechanical risk & reliability analysis  
+- 3D printing optimization using ML-based methods  
+- FEA / GD&T / DFM / DFA  
+- Engineering project & process management  
 
-## 📂 Featured Projects
-- **Automated Stacker Crane Platform Design** – structural design, fabrication drawings, and BOMs  
-- **Risk Assessment of Automated Logistics Equipment** – FMEA and quantitative risk evaluation  
-- **(Coming soon)** 3D printing + machine learning project
+I’m building this GitHub to share **engineering models, CAD-related workflows, analysis scripts, and small ML tools** I develop during study and personal projects.
 
-## 🌱 Currently Learning
-- North American drawing standards (GD&T, ASME Y14.5)
-- Welding symbols (AWS / CSA)
-- Python for engineering calculations
+---
+
+## 🔧 Technical Skills
+
+### **Mechanical Design**
+- Automated machine design, lifting systems, welded structures
+- CAD: SolidWorks, SolidEdge, Inventor, AutoCAD
+- GD&T (ASME Y14.5), tolerance stack-up, DFM/DFA
+
+### **Analysis & Simulation**
+- FEA (static, fatigue concepts)
+- Motion analysis
+- Hand calculations (stress, torque, beam design, lifting mechanisms)
+
+### **Manufacturing & Quality**
+- FMEA (design & process), PFMEA
+- Failure analysis, troubleshooting
+- Machining, welding basics, fabrication drawings
+
+### **Software & Tools**
+- Python (NumPy, pandas, matplotlib)
+- Excel (advanced), VBA basics
+- MATLAB (basic)
+- LaTeX  
+- Teamcenter / PDM
+
+---
+
+## 🏗 Sample Projects (To Be Uploaded)
+
+### **1. Automated Stacker Crane – Structural Design**
+**Type:** Professional project recreation  
+**What I'll upload:** simplified CAD model + motion study + calculation sheet  
+**Highlights:**  
+- Double-mast structure  
+- Beam stress calculations  
+- Fork lifting mechanism  
+- Safety factor evaluation  
+
+---
+
+### **2. Risk Analysis Toolkit (Python)**
+**What it includes:**  
+- Risk matrix generator  
+- FMEA scoring assistant  
+- Quantitative risk model (probability × severity × detectability)  
+- CSV-based workflow  
+
+---
+
+### **3. 3D Printing Parameter Optimization (MEng Project)**
+To be updated after project begins.  
+- ML-based frame-by-frame analysis  
+- Experimental data logging  
+- Python tools for defect detection  
+
+---
+
+### **4. CAD Drawing Standardization Samples**
+I will share:  
+- GD&T examples  
+- Welding symbol examples  
+- Drawing templates (metric, ISO, ASME styles)
+
+---
 
 ## 📫 Contact
-- Email: ygan02@uoguelph.ca
-- Location: Guelph, ON, Canada
+
+- **Email:** ygan02@uoguelph.ca  
+- **LinkedIn:** https://www.linkedin.com/in/yu-g-a99a30314  
+- Currently based in Ontario, Canada 🇨🇦  
+- Open to: **Mechanical Designer, Mechanical Engineer, Manufacturing Engineer, Automation Engineer** roles (TEER 21301 / 21310)
+
+---
+
+### ⭐ Future Goals on GitHub
+- Release a public engineering calculator toolkit (Python)  
+- Create tutorials for new engineers—CAD workflows, drawing standards, and risk evaluation tools  
+- Document all my relevant engineering learnings in Canada  
+
+Thanks for visiting my GitHub profile!
