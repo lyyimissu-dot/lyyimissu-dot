@@ -33,7 +33,7 @@ I’m building this GitHub to share **engineering models, CAD-related workflows,
 
 ### **Software & Tools**
 - Python (PyCharm)
-- Excel (advanced), VBA basics
+- Excel (advanced)
 - MATLAB (basic)
 - LaTeX  
 - Teamcenter / PDM
