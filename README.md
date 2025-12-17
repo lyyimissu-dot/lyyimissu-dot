@@ -83,7 +83,7 @@ I will share:
 - **Email:** ygan02@uoguelph.ca  
 - **LinkedIn:** https://www.linkedin.com/in/yu-g-a99a30314  
 - Currently based in Ontario, Canada 🇨🇦  
-- Open to: **Mechanical Designer, Mechanical Engineer, Manufacturing Engineer, Automation Engineer** roles (TEER 21301 / 21310)
+- Open to: **Mechanical Designer**, **Mechanical Engineer**, **Manufacturing Engineer**, **Automation Engineer**, **Mechanical Drafter**, **Engineering Technologist**, and **Entry-Level engineering roles** (TEER 21301 / 21310)
 
 ---
 
