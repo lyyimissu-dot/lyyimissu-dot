@@ -53,12 +53,11 @@ I’m building this GitHub to share **engineering models, CAD-related workflows,
 
 ---
 
-### **2. Risk Analysis Toolkit (Python)**
+### **2. Risk Analysis Toolkit**
 **What it includes:**  
 - Risk matrix generator  
 - FMEA scoring assistant  
 - Quantitative risk model (probability × severity × detectability)  
-- CSV-based workflow  
 
 ---
 
