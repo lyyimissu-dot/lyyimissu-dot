@@ -32,7 +32,7 @@ I’m building this GitHub to share **engineering models, CAD-related workflows,
 - Machining, welding basics, fabrication drawings
 
 ### **Software & Tools**
-- Python (PyCharm)
+- Python 
 - Excel (advanced)
 - MATLAB (basic)
 - LaTeX  
