@@ -63,11 +63,11 @@ I’m building this GitHub to share **engineering models, CAD-related workflows,
 
 ### **3. 3D Printing Parameter Optimization (MEng Project)**
 To be updated after project begins.  
-- Developed an integrated circular economy (CE) assessment framework by consolidating fragmented CE themes and indicators into a unified decision-support methodology.
-- Applied the framework to a representative additive manufacturing (3D printing) case study to evaluate material efficiency, energy use, cost, and sustainability performance.
-- Defined system boundaries, selected key performance indicators (KPIs), and mapped metrics to the 9R circular economy hierarchy.
-- Performed scenario-based analysis to compare linear and CE-oriented manufacturing approaches using literature-based data and engineering assumptions.
-- Provided insights to support sustainable manufacturing decision-making and future extensions using data-driven and AI-based methods.  
+- Circular economy assessment framework development
+- KPI-based sustainability evaluation
+- 9R strategy mapping
+- Additive manufacturing (3D printing) case study
+- Scenario-based decision support analysis
 
 ---
 
