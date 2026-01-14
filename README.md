@@ -6,7 +6,7 @@ Currently completing my **MEng in Mechanical Engineering at the University of Gu
 
 - Digital manufacturing & automation  
 - Mechanical risk & reliability analysis  
-- 3D printing optimization using Circular Economics  
+- Circular economy assessment and decision-support for additive manufacturing  
 - FEA / GD&T / DFM / DFA  
 - Engineering project & process management  
 
