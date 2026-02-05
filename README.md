@@ -50,7 +50,7 @@ I’m building this GitHub to share **engineering models, CAD-related workflows,
 - Beam stress calculations  
 - Fork lifting mechanism  
 - Safety factor evaluation  
-
+👉 [View project details](https://github.com/lyyimissu-dot/Mechanical-Portfolio/tree/main/01-Stacker-Crane-Engineering)
 ---
 
 ### **2. Risk Analysis Toolkit**
