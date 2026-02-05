@@ -58,7 +58,7 @@ I’m building this GitHub to share **engineering models, CAD-related workflows,
 - Risk matrix generator  
 - FMEA scoring assistant  
 - Quantitative risk model (probability × severity × detectability)  
-👉 [View project details](https://github.com/lyyimissu-dot/Mechanical-Portfolio/tree/main/01-Stacker-Crane-Engineering/Design-Examples.md)
+👉 [View project details](https://github.com/lyyimissu-dot/Mechanical-Portfolio/tree/main/02-Engineering-Analysis/Risk-Analysis)
 ---
 
 ### **3. 3D Printing Circular Economy Case Study (MEng Project)**
