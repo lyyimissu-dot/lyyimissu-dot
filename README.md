@@ -66,7 +66,7 @@ To be updated after project begins.
 - Circular economy assessment framework development
 - KPI-based sustainability evaluation
 - 9R strategy mapping
-- Additive manufacturing (3D printing) case study
+- Industrial equipment lifecycle case study
 - Scenario-based decision support analysis
 
 ---
