@@ -61,7 +61,7 @@ I’m building this GitHub to share **engineering models, CAD-related workflows,
 👉 [View project details](https://github.com/lyyimissu-dot/Mechanical-Portfolio/tree/main/02-Engineering-Analysis/Risk-Analysis)
 ---
 
-### **3. 3D Printing Circular Economy Case Study (MEng Project)**
+### **3. AS/RS Circular Economy Case Study (MEng Project)**
 To be updated after project begins.  
 - Circular economy assessment framework development
 - KPI-based sustainability evaluation
