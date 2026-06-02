@@ -70,14 +70,6 @@ To be updated after project begins.
 
 ---
 
-### **4. CAD Drawing Standardization Samples**
-I will share:  
-- GD&T examples  
-- Welding symbol examples  
-- Drawing templates (metric, ISO, ASME styles)
-
----
-
 ## 📫 Contact
 
 - **Email:** ygan02@uoguelph.ca  
