@@ -80,7 +80,6 @@ To be updated after project begins.
 ---
 
 ### ⭐ Future Goals on GitHub
-- Release a public engineering calculator toolkit (Python)  
 - Create tutorials for new engineers—CAD workflows, drawing standards, and risk evaluation tools  
 - Document all my relevant engineering learnings in Canada  
 
