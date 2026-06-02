@@ -40,11 +40,10 @@ I’m building this GitHub to share **engineering models, CAD-related workflows,
 
 ---
 
-## 🏗 Sample Projects (To Be Uploaded)
-
+## 🏗 Sample Projects 
+Selected engineering portfolio projects are listed below. Some professional work has been recreated and simplified to protect company confidentiality.
 ### **1. Automated Stacker Crane – Structural Design**
 **Type:** Professional project recreation  
-**What I'll upload:** simplified CAD model + motion study + calculation sheet  
 **Highlights:**  
 - Double-mast structure  
 - Beam stress calculations  
