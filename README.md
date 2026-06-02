@@ -1,8 +1,7 @@
 # Hi, I'm Yu Gan 👋  
 **Mechanical Engineer | Automation & Machine Design | CAD & Simulation | Risk & Reliability**
 
-I’m a Mechanical Engineer with 5 years of experience designing **automated material-handling machinery**, including stacker cranes, lifting systems, and industrial equipment.  
-Completed my **MEng in Mechanical Engineering at the University of Guelph (Canada)**, focusing on:
+I’m a Mechanical Engineer with 5 years of experience designing **automated material-handling machinery**, including stacker cranes, lifting systems, and industrial equipment. Completed my **MEng in Mechanical Engineering at the University of Guelph (Canada)**, focusing on:
 
 - Digital manufacturing & automation  
 - Mechanical risk & reliability analysis  
