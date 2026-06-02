@@ -75,7 +75,7 @@ Completed as part of my MEng research project and developed into a manuscript cu
 - Flat patterns and 2D manufacturing drawings
 - BOM, item balloons, and bend notes
 - Riveted assembly structure and fit review 
-👉 [View project details](https://github.com/lyyimissu-dot/Mechanical-Portfolio/tree/main/02-Engineering-Analysis/Risk-Analysis)
+👉 [View project details](https://github.com/lyyimissu-dot/Mechanical-Portfolio/tree/main/06-Sheet-Metal-Trough-Assembly)
 ---
 ## 📫 Contact
 
