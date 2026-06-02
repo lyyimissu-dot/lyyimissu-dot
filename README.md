@@ -68,11 +68,13 @@ Completed as part of my MEng research project and developed into a manuscript cu
 - Conducted scenario-based circularity impact analysis to support design decision-making
 - Connected mechanical design decisions with sustainability, maintainability, reuse, remanufacturing, and end-of-life recovery considerations
 ---
-### **2. Risk Analysis Toolkit**
+### **4. Sheet Metal Trough Assembly**
 **What it includes:**  
-- Risk matrix generator  
-- FMEA scoring assistant  
-- Quantitative risk model (probability × severity × detectability)  
+- Parameter-driven sheet metal design
+- Autodesk Inventor part and assembly modeling
+- Flat patterns and 2D manufacturing drawings
+- BOM, item balloons, and bend notes
+- Riveted assembly structure and fit review 
 👉 [View project details](https://github.com/lyyimissu-dot/Mechanical-Portfolio/tree/main/02-Engineering-Analysis/Risk-Analysis)
 ---
 ## 📫 Contact
