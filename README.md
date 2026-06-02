@@ -60,13 +60,14 @@ Selected engineering portfolio projects are listed below. Some professional work
 👉 [View project details](https://github.com/lyyimissu-dot/Mechanical-Portfolio/tree/main/02-Engineering-Analysis/Risk-Analysis)
 ---
 
-### **3. AS/RS Circular Economy Case Study (MEng Project)**
-To be updated after project begins.  
-- Circular economy assessment framework development
-- KPI-based sustainability evaluation
-- 9R strategy mapping
-- Industrial equipment lifecycle case study
-- Scenario-based decision support analysis
+### **3. AS/RS Circular Economy Case Study – MEng Research Project**
+Completed as part of my MEng research project and developed into a manuscript currently under review. This project focused on applying circular economy principles to automated storage and retrieval systems (AS/RS), using stacker crane configuration scenarios as an industrial equipment case study. 
+- Developed a circular economy assessment framework for manufacturing equipment
+- Mapped AS/RS lifecycle stages to 9R circular economy strategies
+- Selected relevant CE metrics and KPIs for stacker crane evaluation
+- Compared straight-track and curved-track stacker crane scenarios
+- Conducted scenario-based circularity impact analysis to support design decision-making
+- Connected mechanical design decisions with sustainability, maintainability, reuse, remanufacturing, and end-of-life recovery considerations
 
 ---
 
