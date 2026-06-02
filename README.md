@@ -67,9 +67,14 @@ Completed as part of my MEng research project and developed into a manuscript cu
 - Compared straight-track and curved-track stacker crane scenarios
 - Conducted scenario-based circularity impact analysis to support design decision-making
 - Connected mechanical design decisions with sustainability, maintainability, reuse, remanufacturing, and end-of-life recovery considerations
-
 ---
-
+### **2. Risk Analysis Toolkit**
+**What it includes:**  
+- Risk matrix generator  
+- FMEA scoring assistant  
+- Quantitative risk model (probability × severity × detectability)  
+👉 [View project details](https://github.com/lyyimissu-dot/Mechanical-Portfolio/tree/main/02-Engineering-Analysis/Risk-Analysis)
+---
 ## 📫 Contact
 
 - **Email:** ygan02@uoguelph.ca  
