@@ -5,7 +5,7 @@ I’m a Mechanical Engineer with 5 years of experience designing **automated mat
 
 - Digital manufacturing & automation  
 - Mechanical risk & reliability analysis  
-- Circular economy assessment and decision-support for additive manufacturing  
+- Circular economy assessment and decision-support for AS/RS equipments  
 - FEA / GD&T / DFM / DFA  
 - Engineering project & process management  
 
