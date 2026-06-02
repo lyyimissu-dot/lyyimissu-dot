@@ -10,7 +10,7 @@ Currently completed my **MEng in Mechanical Engineering at the University of Gue
 - FEA / GD&T / DFM / DFA  
 - Engineering project & process management  
 
-I’m building this GitHub to share **engineering models, CAD-related workflows, analysis scripts, and small ML tools** I develop during study and personal projects.
+I’m building this GitHub to share **engineering models, CAD-related workflows** I develop during study and personal projects.
 
 ---
 
